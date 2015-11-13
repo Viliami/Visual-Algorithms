@@ -1,5 +1,6 @@
 # Visual-Algorithms
 A visual internpretation of common algorithms.
 
-[![Screenshot](bubble_sort.gif)]
+###Bubble Sort
+![Screenshot](bubble_sort.gif)
 
